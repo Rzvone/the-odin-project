@@ -1,0 +1,36 @@
+.para {
+    font-weight: 900;
+    font-size: 36px;
+}
+
+.para.small-para {
+    font-size: 20px;
+}
+
+#confirm-button {
+    background-color: darkgreen;
+    color: white;
+    height: 50px;
+    width: 125px;
+    font-size: 22px;
+    font-weight: 900;
+}
+
+#cancel-button {
+    background-color: white;
+    color: black;
+    height: 50px;
+    width: 125px;
+    font-size: 22px;
+}
+
+
+.text {
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.text.child {
+    font-size: 18px;
+    font-weight: 900;
+}
