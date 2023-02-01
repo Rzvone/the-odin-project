@@ -1,0 +1,44 @@
+body {
+    background-color: antiquewhite;
+}
+
+
+
+.card {
+   background-color: white;
+   padding: 8px;
+   margin: auto;
+   width: 350px;
+   height: auto;
+}
+
+.title {
+    font-size: 16px;
+    padding: 8px;
+    margin-top: 3px;
+
+}
+
+.content {
+    padding: 8px;
+}
+
+div.button-container {
+    font-weight: bold;
+    padding: 8px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.title,
+.content,
+.button-container {
+    background-color: lightblue;
+}
+
+button {
+    margin: 0 auto;
+    padding: 8px 24px;
+    display: block;
+    left: 50%;
+}
