@@ -1,0 +1,33 @@
+.one {
+    background-color: lightpink;
+    font-size: 20px;
+    border: 3px solid blue;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    margin-right: 300px;
+    margin-left: 12px;
+    margin-bottom: 12px;
+
+
+}
+
+.one, .three {
+    padding-left: 32px;
+}
+
+.two {
+   background-color: lightskyblue;
+   border: 3px solid purple;
+   margin-bottom: 48px;
+   margin-right: 280px;
+}
+
+
+.three {
+    background-color: beige;
+    padding-top: 32px;
+    padding-right: 100px;
+    padding-bottom: 32px;
+    width: 200px;
+    margin-left: auto;
+}
